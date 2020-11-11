@@ -14,7 +14,7 @@ namespace EntityFrameworkDemo
 
         }
 
-        protected void EntityDataSource1_Selecting(object sender, Microsoft.AspNet.EntityDataSource.EntityDataSourceSelectingEventArgs e)
+        protected void EntityDataSource1_Selecting(object sender, EntityDataSourceSelectingEventArgs e)
         {
 
         }
