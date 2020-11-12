@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{143FCB18-F517-4EF8-8418-F4058F29517F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoredProceduresWithEF", "StoredProceduresWithEF\StoredProceduresWithEF.csproj", "{920EA2B3-5FDD-4226-AFD6-0AA3073A0C93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{143FCB18-F517-4EF8-8418-F4058F29517F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{143FCB18-F517-4EF8-8418-F4058F29517F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{143FCB18-F517-4EF8-8418-F4058F29517F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920EA2B3-5FDD-4226-AFD6-0AA3073A0C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920EA2B3-5FDD-4226-AFD6-0AA3073A0C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920EA2B3-5FDD-4226-AFD6-0AA3073A0C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920EA2B3-5FDD-4226-AFD6-0AA3073A0C93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
