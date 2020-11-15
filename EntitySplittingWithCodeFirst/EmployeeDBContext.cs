@@ -41,6 +41,6 @@ namespace EntitySplittingWithCodeFirst
                           });
             base.OnModelCreating(modelBuilder);
         }
-        
+
     }
 }

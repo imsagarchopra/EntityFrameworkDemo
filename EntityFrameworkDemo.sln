@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitySplittingWithDBFirst"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitySplittingWithCodeFirst", "EntitySplittingWithCodeFirst\EntitySplittingWithCodeFirst.csproj", "{60C91D4A-FCAA-464F-A418-298909260A13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableSplittingWithDBFirst", "TableSplittingWithDBFirst\TableSplittingWithDBFirst.csproj", "{48713192-1386-4A78-B071-F0E69CCE4AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableSplittingWithCodeFirst", "TableSplittingWithCodeFirst\TableSplittingWithCodeFirst.csproj", "{368A2C7C-0A48-45EE-BF69-3045D22C59B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{60C91D4A-FCAA-464F-A418-298909260A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60C91D4A-FCAA-464F-A418-298909260A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60C91D4A-FCAA-464F-A418-298909260A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48713192-1386-4A78-B071-F0E69CCE4AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48713192-1386-4A78-B071-F0E69CCE4AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48713192-1386-4A78-B071-F0E69CCE4AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48713192-1386-4A78-B071-F0E69CCE4AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368A2C7C-0A48-45EE-BF69-3045D22C59B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368A2C7C-0A48-45EE-BF69-3045D22C59B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368A2C7C-0A48-45EE-BF69-3045D22C59B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368A2C7C-0A48-45EE-BF69-3045D22C59B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
