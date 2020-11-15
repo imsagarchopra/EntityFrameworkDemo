@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableSplittingWithDBFirst",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableSplittingWithCodeFirst", "TableSplittingWithCodeFirst\TableSplittingWithCodeFirst.csproj", "{368A2C7C-0A48-45EE-BF69-3045D22C59B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfReferencingAssociationWithDBFirst", "SelfReferencingAssociationWithDBFirst\SelfReferencingAssociationWithDBFirst.csproj", "{43612FBA-3331-4A9F-96DE-42639CF87E3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{368A2C7C-0A48-45EE-BF69-3045D22C59B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{368A2C7C-0A48-45EE-BF69-3045D22C59B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{368A2C7C-0A48-45EE-BF69-3045D22C59B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43612FBA-3331-4A9F-96DE-42639CF87E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43612FBA-3331-4A9F-96DE-42639CF87E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43612FBA-3331-4A9F-96DE-42639CF87E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43612FBA-3331-4A9F-96DE-42639CF87E3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
