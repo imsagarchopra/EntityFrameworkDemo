@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableSplittingWithCodeFirst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfReferencingAssociationWithDBFirst", "SelfReferencingAssociationWithDBFirst\SelfReferencingAssociationWithDBFirst.csproj", "{43612FBA-3331-4A9F-96DE-42639CF87E3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablePerHierarchyInheritanceWithDbFirst", "TablePerHierarchyInheritanceWithDbFirst\TablePerHierarchyInheritanceWithDbFirst.csproj", "{0A79C55E-DBAB-4EEA-89D8-543806CD56C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablePerHierarchyInheritanceWithCodeFirst", "TablePerHierarchyInheritanceWithCodeFirst\TablePerHierarchyInheritanceWithCodeFirst.csproj", "{B0C58088-9A72-4546-95CA-7EC0C1FA0908}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{43612FBA-3331-4A9F-96DE-42639CF87E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43612FBA-3331-4A9F-96DE-42639CF87E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43612FBA-3331-4A9F-96DE-42639CF87E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A79C55E-DBAB-4EEA-89D8-543806CD56C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A79C55E-DBAB-4EEA-89D8-543806CD56C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A79C55E-DBAB-4EEA-89D8-543806CD56C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A79C55E-DBAB-4EEA-89D8-543806CD56C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C58088-9A72-4546-95CA-7EC0C1FA0908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C58088-9A72-4546-95CA-7EC0C1FA0908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C58088-9A72-4546-95CA-7EC0C1FA0908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C58088-9A72-4546-95CA-7EC0C1FA0908}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
