@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablePerHierarchyInheritanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToManyRelationships", "ManyToManyRelationships\ManyToManyRelationships.csproj", "{437C11B2-1A70-4BBD-803C-AF201A1EDB82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToManyRelationshipsWithCodeFirst", "ManyToManyRelationshipsWithCodeFirst\ManyToManyRelationshipsWithCodeFirst.csproj", "{987D4860-6371-4977-BE92-AC530244AFE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{437C11B2-1A70-4BBD-803C-AF201A1EDB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{437C11B2-1A70-4BBD-803C-AF201A1EDB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{437C11B2-1A70-4BBD-803C-AF201A1EDB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987D4860-6371-4977-BE92-AC530244AFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987D4860-6371-4977-BE92-AC530244AFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987D4860-6371-4977-BE92-AC530244AFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987D4860-6371-4977-BE92-AC530244AFE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

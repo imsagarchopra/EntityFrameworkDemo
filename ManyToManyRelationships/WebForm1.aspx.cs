@@ -45,6 +45,6 @@ namespace ManyToManyRelationships
                 .Courses.Remove(SQLServerCourse);
             employeeDBContext.SaveChanges();
         }
-        p
+        
     }
 }
